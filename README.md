@@ -44,3 +44,8 @@ define MyPowermeter DISCOVERGY EASYMETER_12345678 my@mail.com myPassword 180
 - *error*: error message if an error occured during the last API call (Connection or API error)
 - *api_status*: status of the api connection
 - *connection*: status of the http connection
+
+### Installation:
+```
+update all https://raw.githubusercontent.com/asciidisco/fhem-discovergy/master/module.txt
+```
