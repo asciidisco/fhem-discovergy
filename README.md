@@ -47,5 +47,5 @@ define MyPowermeter DISCOVERGY EASYMETER_12345678 my@mail.com myPassword 180
 
 ### Installation:
 ```
-update all https://raw.githubusercontent.com/asciidisco/fhem-discovergy/master/module.txt
+update all https://raw.githubusercontent.com/asciidisco/fhem-discovergy/master/DISCOVERGY.txt
 ```
